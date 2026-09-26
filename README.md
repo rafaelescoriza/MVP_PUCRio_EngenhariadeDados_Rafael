@@ -49,7 +49,7 @@ Camada de consumo analítico, mantendo a granularidade original das linhas, enri
 | O que você procura | Onde encontrar |
 |---|---|
 | Contexto de negócio, modelagem, qualidade de dados, análises e autoavaliação | `00_MVP_Engenhariadedados_RafaelEscoriza.pdf` |
-| Código-fonte do pipeline (Bronze, Silver, Gold) | Pasta `notebooks/` |
+| Código-fonte do pipeline (Bronze, Silver, Gold) | Raiz do repositório (arquivos .ipynb)` |
 | Visão geral e estrutura do projeto | Este `README.md` |
 
 ---
